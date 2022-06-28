@@ -1,0 +1,11 @@
+# Rust
+target
+Cargo.lock
+
+# Node.js
+index.node
+**/node_modules
+npm-debug.log*
+
+# Miscellaneous
+**/.DS_Store
